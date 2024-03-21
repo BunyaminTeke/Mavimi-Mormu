@@ -1,0 +1,16 @@
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\bin\Debug\net8.0-windows\Daire.exe
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\bin\Debug\net8.0-windows\Daire.deps.json
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\bin\Debug\net8.0-windows\Daire.runtimeconfig.json
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\bin\Debug\net8.0-windows\Daire.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\bin\Debug\net8.0-windows\Daire.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\obj\Debug\net8.0-windows\Daire.Form1.resources
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\obj\Debug\net8.0-windows\Daire.csproj.GenerateResource.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\obj\Debug\net8.0-windows\Daire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\obj\Debug\net8.0-windows\Daire.AssemblyInfoInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\obj\Debug\net8.0-windows\Daire.AssemblyInfo.cs
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\obj\Debug\net8.0-windows\Daire.csproj.CoreCompileInputs.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\obj\Debug\net8.0-windows\Daire.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\obj\Debug\net8.0-windows\refint\Daire.dll
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\obj\Debug\net8.0-windows\Daire.pdb
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\obj\Debug\net8.0-windows\Daire.genruntimeconfig.cache
+C:\Users\tekeb\Desktop\Görsel Programlama\Daire\Daire\obj\Debug\net8.0-windows\ref\Daire.dll
